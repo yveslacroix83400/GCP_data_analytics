@@ -4,7 +4,7 @@ This repository hosts a static website summarizing the **Google Cloud Data Analy
 
 ## 🚀 Live Website
 
-[🌐 View the Website]([https://yveslacroix83400.github.io/GCP_data](https://yveslacroix83400.github.io/GCP_data_analytics/])five core courses:
+[🌐 View the Website](https://yveslacroix83400.github.io/GCP_data](https://yveslacroix83400.github.io/GCP_data_analytics/)five core courses:
 - **Course 1**: Introduction to Cloud Analytics
 - **Course 2**: Data Management & Storage
 - **Course 3**: Data Transformation
