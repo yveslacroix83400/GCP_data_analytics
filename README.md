@@ -2,9 +2,9 @@
 
 This repository hosts a static website summarizing the **Google Cloud Data Analytics Professional Certificate** program.
 
-## 📚 Course Explorer
+## 🚀 Live Website
 
-Navigate through the five core courses:
+[🌐 View the Website](https://yveslacroix83400.github.io/GCP_datafive core courses:
 - **Course 1**: Introduction to Cloud Analytics
 - **Course 2**: Data Management & Storage
 - **Course 3**: Data Transformation
@@ -16,6 +16,3 @@ Navigate through the five core courses:
 - **Glossary**: Key terms from the program
 - **References & Citations**: Source materials and further reading
 
-## 🚀 How to View the Site
-
-Once GitHub Pages is enabled, visit: 
