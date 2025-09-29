@@ -1,6 +1,7 @@
 # 🌐 Google Cloud Data Analytics – Certificate Program Wrap-up
 
-This repository hosts a static website summarizing the **Google Cloud Data Analytics Professional Certificate** program.
+This repository hosts the static website summarizing the **Google Cloud Data Analytics Professional Certificate** program.
+It is complementary to materials you can download from the files ressource of the moodle page of the course. 
 
 ## 🚀 Live Website
 
